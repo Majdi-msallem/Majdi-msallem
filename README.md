@@ -1,11 +1,12 @@
 # Hi there , I'm Majdi!👋
-<img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello world">
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/Majdi-msallem/count.svg" />
-</p>
 
-# About Me 😊
+<img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello world">
+
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=majdi-msallem&label=Profile%20views&color=0e75b6&style=flat" alt="majdi-msallem" /> </p>
+
+
+## About Me 😊
 
 
 - 🔭 I’m currently working on **MERN Stack project for ESPRIT**
