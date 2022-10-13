@@ -14,8 +14,6 @@
 
 - 🔭 I’m currently working on **SpringBoot/Angular App**
 
-- 🌱 I’m currently learning **React native**
-
 - 📫 How to reach me **majdi.msallem@esprit.tn**
  
 - 👯 I’m looking to collaborate on **Open Source Project**
