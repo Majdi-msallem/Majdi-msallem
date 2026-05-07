@@ -12,9 +12,9 @@
 ## About Me 😊
 
 
-- 🔭 I’m currently working on **SpringBoot/Angular App**
+- 🔭 I’m currently working on **python/FastApi , Angular App**
 
-- 📫 How to reach me **majdi.msallem@esprit.tn**
+- 📫 How to reach me **msallemmajdi96@gmail.com**
  
 - 👯 I’m looking to collaborate on **Open Source Project**
 
